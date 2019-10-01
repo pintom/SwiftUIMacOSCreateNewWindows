@@ -27,6 +27,7 @@
 		E29104752343E27900A92C38 /* NewWindowSwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NewWindowSwiftUI.entitlements; sourceTree = "<group>"; };
 		E291047B2343E2A100A92C38 /* WindowManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WindowManager.swift; sourceTree = "<group>"; };
 		E291047C2343E2A100A92C38 /* WindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
+		E291047F2343E50C00A92C38 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		E291045C2343E27800A92C38 = {
 			isa = PBXGroup;
 			children = (
+				E291047F2343E50C00A92C38 /* README.md */,
 				E29104672343E27800A92C38 /* NewWindowSwiftUI */,
 				E29104662343E27800A92C38 /* Products */,
 			);
